@@ -2,6 +2,9 @@
 
 PDF rendering thingy for sixel terminals.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c17b7bfb-d346-444e-beb8-9a1d9bb08518" />
+
+
 ## Why?
 
 Why not? I use `st` and `nvim` to work with latex, so yeah... I need side by side PDF rendering. Problem is, what we already have is either with kitty or is notorious (at least on my computer) to compile.
